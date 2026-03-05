@@ -1,12 +1,6 @@
 # 📊 ECUT 成绩助手
 
-> 东华理工大学教务系统成绩增强脚本 — 一键计算 GPA、加权均分、导出 Excel，完整支持 iPhone / iPad 触控。
-
-[![Version](https://img.shields.io/badge/version-4.1.0-blue.svg)](https://github.com/yourusername/ecut-grade-enhancer/releases)
-[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
-[![Platform](https://img.shields.io/badge/platform-Tampermonkey%20%7C%20Violentmonkey-orange.svg)]()
-
----
+> 东华理工大学教务系统成绩增强脚本 — 一键计算 GPA、加权均分、导出 Excel，支持触控。
 
 ## ✨ 功能特性
 
@@ -94,6 +88,6 @@
 
 ## ⚠️ 免责声明
 
-本脚本仅供学习交流使用，通过读取页面上已渲染的成绩数据进行本地计算，**不会修改、上传或泄露任何个人数据**。
+本脚本大部分内容由AI生成，且参考了其他大佬的脚本作品，在此表示感谢！该脚本仅供学习交流使用，通过读取页面上已渲染的成绩数据进行本地计算，**不会修改、上传或泄露任何个人数据**。
 
 使用本脚本所产生的任何后果由使用者自行承担，与开发者无关。请遵守学校相关规定。
