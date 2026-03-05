@@ -31,7 +31,7 @@
  手动安装，以Tampermonkey为例：
 
 1. 打开 Tampermonkey 控制台 → "新建脚本"
-2. 将 [`ecut-grade-enhancer.user.js`](ECUT——Kit/ecut-grade-enhancer.user.js) 的全部内容粘贴进去
+2. 将 [`ecut-grade-enhancer.user.js`](ECUT_Kit/ecut-grade-enhancer.user.js) 的全部内容粘贴进去
 3. 保存（`Ctrl+S`）
 
 ### 第三步：使用
