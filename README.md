@@ -25,15 +25,10 @@
 
 - **Chrome / Edge**：[Tampermonkey](https://www.tampermonkey.net/) 或 [Violentmonkey](https://violentmonkey.github.io/)
 - **Firefox**：[Tampermonkey](https://www.tampermonkey.net/) 或 [Violentmonkey](https://violentmonkey.github.io/)
-- **Safari (iOS/macOS)**：[Userscripts](https://apps.apple.com/app/userscripts/id1463298887)
+- **Safari (iOS/macOS)**：[Userscripts](https://apps.apple.com/app/userscripts/id1463298887)或[Tampermonkey](https://www.tampermonkey.net/)
 
 ### 第二步：安装脚本
-
-**方式 A（推荐）** — 从 GreasyFork 一键安装：
-
-> 🔗 *发布后在此处添加 GreasyFork 链接*
-
-**方式 B** — 手动安装：
+ 手动安装，以Tampermonkey为例：
 
 1. 打开 Tampermonkey 控制台 → "新建脚本"
 2. 将 [`src/ecut-grade-enhancer.user.js`](src/ecut-grade-enhancer.user.js) 的全部内容粘贴进去
@@ -43,7 +38,7 @@
 
 1. 登录东华理工大学教务系统
 2. 进入 **成绩查询** 页面
-3. 脚本自动启动，悬浮窗出现在页面右上角
+3. 脚本预期自动启动，悬浮窗出现在页面右上角
 4. 可拖动悬浮窗到任意位置，点击"收起"最小化
 
 ---
@@ -85,9 +80,11 @@
 - **横屏**：自动适配高度布局
 - **最小化**：点击"收起"按钮，浮窗折叠为紧凑模式
 ---
+---
 
 ## ⚠️ 免责声明
 
-本脚本大部分内容由AI生成，且参考了其他大佬的脚本作品，在此表示感谢！该脚本仅供学习交流使用，通过读取页面上已渲染的成绩数据进行本地计算，**不会修改、上传或泄露任何个人数据**。
-
-使用本脚本所产生的任何后果由使用者自行承担，与开发者无关。请遵守学校相关规定。
+1. **用途限制**：本脚本仅供学习交流使用，**严禁将本脚本及其衍生版本用于商业售卖、付费代刷或其他非法盈利行为**。
+2. **数据安全**：脚本仅通过读取页面已渲染的成绩数据进行本地计算，**不收集、不上传、不泄露**任何个人隐私数据。
+3. **风险自担**：使用本脚本产生的任何后果（如教务系统账号异常等）由使用者自行承担，开发者不承担任何法律责任。
+4. **开源致谢**：本脚本由 AI 辅助生成，并参考了正方教务系统相关开源项目，向原作者表示感谢。
